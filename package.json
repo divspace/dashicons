@@ -1,1 +1,14 @@
-
+{
+  "name": "dashicons",
+  "version": "1.0.0",
+  "description": "Dashicons, the WordPress admin icon font",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divspace/dashicons.git"
+  },
+  "keywords": [
+    "wordpress",
+    "admin",
+    "dashicons"
+  ]
+}
